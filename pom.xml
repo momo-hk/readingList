@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>ReadingList</name>
-	<description>Reading List Demo Applications</description>
+	<description>Reading List Demo Application</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
