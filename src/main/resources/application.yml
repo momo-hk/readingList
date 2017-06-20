@@ -1,0 +1,20 @@
+error:
+  whitelabel:
+    enabled: false
+
+amazon:
+  associateId: habuma-20
+
+endpoints:
+  shutdown:
+    enabled: true    
+  
+info:
+  contacts:
+    email: momo_springboot@gmail.com
+    phone: 123-456-789Q
+
+management:
+  context-path: /mgmt
+  security:
+    enabled: false
